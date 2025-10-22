@@ -52,3 +52,13 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio workspace files and build artifacts
+.vs/
+*.user
+*.suo
+*.vsidx
+*.dbmdl
+*.log
+bin/
+obj/
